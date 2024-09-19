@@ -20,11 +20,10 @@ This is a simple calculator app developed using Kotlin for Android. It provides 
 - **XML Layouts**: Defines the user interface layout using `LinearLayout`, `TextView`, and `Button` elements for input and operations.
 
 ## Screenshot
-![Calculator Screenshot](screenshots/calculator_screenshot_1.png)
-![Calculator Screenshot](screenshots/calculator_screenshot_2.png)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="screenshots/calculator_screenshot_1.png" alt="Calculator Screenshot 1" width="300"/>
+  <img src="screenshots/calculator_screenshot_2.png" alt="Calculator Screenshot 2" width="300"/>
+</div>
 
 ## License
 This project is open-source and available under the MIT License.
-# simpleCalculator
-# simpleCalculator
